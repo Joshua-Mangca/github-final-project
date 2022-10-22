@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # <joshua.mangca@g.msuiit.edu.ph>
 
    # Input:
    # p, principal amount
